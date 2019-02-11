@@ -1,1 +1,1 @@
-This is assignemnt three for AI class. See project description. 
+This is the second assignemnt for AI class. See project description. 
